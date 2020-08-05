@@ -3,8 +3,10 @@ layout: post
 title: "Hello World!"
 description: "The first 'Hello world' post for Simple Texture theme."
 categories: [uncategorized]
-tags: [random, jekyll]
+tags: [Hello]
 redirect_from:
-  - /2013/04/22/
+  - /2020/08/05/
 ---
-Hello World! This is the beginning of this theme.
+Hello World!
+
+원래 시작은 Hello, World로 해야죠.
