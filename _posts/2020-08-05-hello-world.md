@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello World!"
-description: "The first 'Hello world' post for Simple Texture theme."
+description: ""
 categories: [uncategorized]
 tags: [Hello]
 redirect_from:
